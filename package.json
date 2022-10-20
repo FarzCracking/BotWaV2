@@ -12,8 +12,8 @@
     "multidevice",
     "multi-device"
   ],
-  "author": "Rimurubotz",
-  "license": "ISC",
+  "author": "IKFAR-IFC",
+  "license": "IFC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",     
     "@adiwajshing/keyed-db": "^0.2.4",
